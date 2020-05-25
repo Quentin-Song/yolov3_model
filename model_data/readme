@@ -1,0 +1,11 @@
+yolov3 预训练模型文件
+文件名:2cls_smoking_cigarbox.h5
+链接：https://pan.baidu.com/s/1d3TcBSgEQmqb_fF44d7ytQ
+提取码：0ghr
+
+吸烟模型文件
+链接：https://pan.baidu.com/s/1g_RpQtC0c0t7CX3ys8GkIQ
+提取码：a5sl
+2cls_smoking_cigarbox.txt 检测类别文件
+2cls_smoking_cigarbox_anchors.txt 聚类anchor 文件
+

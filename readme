@@ -1,0 +1,5 @@
+requirements.txt 存放环境依赖
+pip install -r requirements.txt 安装环境依赖
+./images  文件夹存放待测试图片
+./detection_result 文件夹存放检测后结果
+./model_data 存放模型文件
